@@ -1,0 +1,12 @@
+streamlit
+pdfplumber
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+langchain-ollama
+chromadb
+sentence-transformers
+torch

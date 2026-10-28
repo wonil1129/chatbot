@@ -1,0 +1,19 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.claude/
+
+# Generated artifacts
+chroma_db/
+chroma_db_*/
+
+# Optional local Streamlit secrets
+.streamlit/secrets.toml
+# 공유용 복사본 (원본과 중복)
+share_bundle/
+
+# 학교 자료 (공개 레포에 올리지 않음, 로컬·서버에만 둠)
+rule.pdf
+assets/*
+!assets/.gitkeep
